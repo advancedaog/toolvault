@@ -1,0 +1,2594 @@
+[
+  {
+    "t": "5006- TORQUE DR 10-70IN/LB",
+    "p": "X002YJ60OV",
+    "s": "N/A",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Next due: June 11, 2026"
+  },
+  {
+    "t": "5007- TIRE GAUGE 0-400PSI",
+    "p": "8844",
+    "s": "26907",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Next due: June 11, 2026"
+  },
+  {
+    "t": "5008 - TORQUE WRENCH 50FT/LB- 250FT/LB",
+    "p": "2503MFRMH",
+    "s": "1022120886",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Next due: June 11, 2026"
+  },
+  {
+    "t": "5009 - LASKO FAN",
+    "p": "LASKO FAN",
+    "s": "5009",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5010 - LUBRICATION KIT IN DEWALT BOX",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5011 - MADDOX FLARING TOOL KIT",
+    "p": "MF 18-1",
+    "s": "N/A",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5012 - PRINTER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5013 - TOOLBOX",
+    "p": "HUSKY TOOLBOX (BLUE)",
+    "s": "NSN",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5014 - 100FT ORANGE EXTENSION CABLE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5015 - QD GOOSENECK STEEL BRAIDED LINE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5016 - 6FT QD OXYGEN SERVICING STEEL BRAIDED LINE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5017 - STEEL BRAIDED LINE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5018 - STEEL BRAIDED LINE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5019 - 3 STEP LADDER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5020 - GORILLA LADDER 18FT MAX",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5021 - GORILLA WORK PLATFORM LADDER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5022 - INVERTER",
+    "p": "",
+    "s": "MAGNUM DIMENSIONS",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5023 - OXYGEN REGULATOR",
+    "p": "O2HPK-15",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5024 - NITROGEN REGULATOR",
+    "p": "NHPK-22",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5025 - 17 TON JACK",
+    "p": "91-2928-0132",
+    "s": "8710-8691",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5026 - NITROGEN REEL",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5027 - 25TON JACK",
+    "p": "02-7830C0100",
+    "s": "3024220602",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "5028 - DIGITAL TIRE GAUGE",
+    "p": "EAU472",
+    "s": "20013110009",
+    "st": "active",
+    "l": "VAN 5 LUIS VAN",
+    "ca": "",
+    "cl": "Next due: June 23, 2026"
+  },
+  {
+    "t": "A-1001 - CABLE TENSIOMETER",
+    "p": "T5-2002-101-00",
+    "s": "77861",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Next due: June 12, 2026"
+  },
+  {
+    "t": "A- 1002 -TIRE PRESSURE GAUGE 0-300 PSI",
+    "p": "300-ATG-1",
+    "s": "T-56384",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Next due: February 03, 2027"
+  },
+  {
+    "t": "A-1003 -TORQUE 50FT/LB-250FT/LB",
+    "p": "2503MFRMH",
+    "s": "0423120498",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Next due: February 03, 2027"
+  },
+  {
+    "t": "A-1004 - TORQUE WRENCH 50 INCH-250 IN/LB",
+    "p": "2502MRPH",
+    "s": "0125114320",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Next due: February 03, 2027"
+  },
+  {
+    "t": "A-1005 -SETTING TORQUE TOOL 40- 200IN/LB",
+    "p": "TWM200A",
+    "s": "V070010",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Next due: February 03, 2027"
+  },
+  {
+    "t": "A-1006 - SETTING TORQUE TOOL 20- 100FT/LB",
+    "p": "TWXF100",
+    "s": "V060268",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Next due: February 03, 2027"
+  },
+  {
+    "t": "A-1007 - AIRCRAFT AIR STRUT SERVICE TOOL 0 TO 3000PSI",
+    "p": "8876",
+    "s": "23520",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Next due: February 03, 2027"
+  },
+  {
+    "t": "A-1008 - TORQUE WRENCH ADJUSTABLE 10IN/LB-50IN/LB",
+    "p": "501MRMH",
+    "s": "0324122020",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Next due: February 03, 2027"
+  },
+  {
+    "t": "A-1009 -TORQUE SCREWDRIVER",
+    "p": "X002YJ60OV",
+    "s": "10-70IN/LB",
+    "st": "decommissioned",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "AIRCONDITIONING SERVICING KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "AIRHAMMER SET 14 PIECES",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "AIR LIFT LOAD LIFTER 5000 AIR SUSPENSION KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "PDK MATTS VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "AOG-PDK 001 - DMC HX4 CRIMPER",
+    "p": "MIL. HX4",
+    "s": "M22520/5-01",
+    "st": "calibration",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "AOG-PDK - LASER THERMOMETER",
+    "p": "FLUKE 62 MAX",
+    "s": "IR THERMOMETER",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 10 -12 TON JACK",
+    "p": "02-7813C0100",
+    "s": "6618221201",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 11 -25 TON JACK",
+    "p": "02-7830C0100",
+    "s": "5305220901",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 12- FLUID SERVICE UNIT",
+    "p": "06-5022-6500",
+    "s": "4236221101",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA13- FLUID SERVICE UNIT",
+    "p": "06-5022-6500",
+    "s": "7180221204",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA14- FLUID SERVICE UNIT",
+    "p": "06-5022-6500",
+    "s": "8322221002",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 15 - 3000 PSI TIRE GAUGE",
+    "p": "N/A",
+    "s": "T-45774",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 23, 2026"
+  },
+  {
+    "t": "APA 16 - 300 PSI TIRE GAUGE",
+    "p": "TTL-300-HA",
+    "s": "22101007004",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 23, 2026"
+  },
+  {
+    "t": "APA 17- O2 REGULATOR",
+    "p": "O2HPK",
+    "s": "",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 18- NITROGEN HOSE 22'",
+    "p": "NH-22",
+    "s": "",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 19 - NITROGEN REGULATOR",
+    "p": "NHPK",
+    "s": "",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA1- TORQUE DR. 10-17 IN/LB",
+    "p": "X002YJ60OV",
+    "s": "APA 1",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 18, 2026"
+  },
+  {
+    "t": "APA 20 - OXYGEN HOSE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 21 - TRONAIR WING JACK",
+    "p": "02-1032-0111",
+    "s": "515414001",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA GARAGE",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 22 - TRONAIR WING JACK",
+    "p": "02-1032-0111",
+    "s": "515414002",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA GARAGE",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 23 - Mobile Mule Alberth Aviation",
+    "p": "PN: MM-3200",
+    "s": "SN: 099",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA 24 - Cable Tensiometer 10 to 150",
+    "p": "T5-2002-101-00",
+    "s": "83483",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 23, 2026"
+  },
+  {
+    "t": "APA2- IMPACT ADAPTER AND REDUCER KIT",
+    "p": "NEIKO 30223A",
+    "s": "",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA3- NITRO REG KIT 22' HOSE",
+    "p": "NHPK-22",
+    "s": "",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA4- TIRE GAUGE 0-400PSI",
+    "p": "8844",
+    "s": "26699",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 23, 2026"
+  },
+  {
+    "t": "APA5- TORQUE WRENCH 50IN/LB- 250IN/LB",
+    "p": "2502MRMH",
+    "s": "0922111421",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 18, 2026"
+  },
+  {
+    "t": "APA6- O2 REG KIT",
+    "p": "O2HPK-15",
+    "s": "",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA7- TORQUE WRENCH 10IN/LB- 50IN/LB",
+    "p": "501MRMH",
+    "s": "0722900152",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 18, 2026"
+  },
+  {
+    "t": "APA8- GULFSTREAM ADAPTER KIT",
+    "p": "GMGJAK",
+    "s": "100",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA9- TORQUE WRENCH 50FT/LB- 250FT/LB",
+    "p": "2503MFRMH",
+    "s": "1022120972",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 18, 2026"
+  },
+  {
+    "t": "APACHE ROLLER CARRY CASE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA - LAPTOP",
+    "p": "DELL INSPIRON",
+    "s": "1WWHVN3",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA TRUCK INFORMATION",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "APA TRUCK INFORMATION",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "AT&T MOBILE WIFI - FRANKLIN A50",
+    "p": "RG2102 Franklin A50",
+    "s": "IMEI 358718370889599",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "BJC - JACK PADS PHENOM 300",
+    "p": "JCPS-G5K-0011",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "BJC VAN MX FORMS",
+    "p": "VIN 3C6LRVDGOME584962",
+    "s": "2021 RAM PROMASTER VAN",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "BLACK PELICAN 1560WF CASE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "BLACK Tool Box - 56 INCH",
+    "p": "Us general",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "BONNIE WRENCHES",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "BORESCOPE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "CASE OF 2380",
+    "p": "EXPIRES 2/14/27",
+    "s": "CONSUMABLES",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "COBRA PRO 3000W POWER INVERTER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "COLORADO LAPTOP - BLUE",
+    "p": "LENOVO",
+    "s": "PFSBJ0YH",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "COLORADO TRUCK MX FORMS",
+    "p": "VIN: 3C7WR5HJ0NG309709",
+    "s": "2022 RAM 2500 TRUCK",
+    "st": "active",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "COMPOSITE REPAIR KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "COSCO 3 IN 1 HAND TRUCK",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "Craftsman tool box",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "CRAFTSMAN WRENCHES",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "LAS",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DEWALT FAN",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DEWALT STOOL",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DRILL BITS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS 15 - 1-4FT STEP LADDER",
+    "p": "SILVER",
+    "s": "",
+    "st": "active",
+    "l": "PDK MATTS VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS 16 - TOOL BOX",
+    "p": "CRAFTSMAN",
+    "s": "BLACK",
+    "st": "active",
+    "l": "PDK MATTS VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS 17 - O2 TANK",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "PDK MATTS VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS 18 - NITROGEN LARGE TANK",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS 19 - SMALL NITROGEN TANK",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS 1 - TORQUE DR 10-70IN/LB",
+    "p": "X002YJ60OV",
+    "s": "DTS 1",
+    "st": "active",
+    "l": "PDK",
+    "ca": "PDK MATTS VAN",
+    "cl": "Next due: March 04, 2026"
+  },
+  {
+    "t": "DTS2- IMPACT ADAPTER AND REDUCER KIT",
+    "p": "NEIKO 30223A",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS3- NITRO REG KIT 22' HOSE",
+    "p": "NHPK-22",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS4 - TORQUE WRENCH 50IN/LB- 250IN/LB",
+    "p": "2502MRMH",
+    "s": "0922111423",
+    "st": "decommissioned",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS6- TORQUE WRENCH 10IN/LB- 50IN/LB",
+    "p": "501MRMH",
+    "s": "0722900179",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Next due: March 04, 2026"
+  },
+  {
+    "t": "DTS7- TIRE GAUGE 0-400PSI",
+    "p": "8844",
+    "s": "26899",
+    "st": "reference",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS8- TORQUE WRENCH 50FT/LB- 250FT/LB",
+    "p": "2503MFRMH",
+    "s": "1022120971",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Next due: March 04, 2026"
+  },
+  {
+    "t": "DTS9- TIRE GAUGE 0-400PSI",
+    "p": "8844",
+    "s": "26902",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Next due: March 04, 2026"
+  },
+  {
+    "t": "DTS - fire extinguisher",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS - First Aid Kit",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS - triangle kit",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "DTS VAN",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "ELECTRICAL",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "EMERGENCY ROADSIDE KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "EXTENSION CORDS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "EXTENSION CORDS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "EXTRA NITROGEN HOSE",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "F6992 VNYII 4- TORQUE WRENCH 50IN/LB-250IN/LB",
+    "p": "2502MRMH",
+    "s": "0922111397",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 24, 2026"
+  },
+  {
+    "t": "F8929 - VNY2 - 400 PSI TIRE GAUGE",
+    "p": "8844",
+    "s": "26404",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: May 08, 2026"
+  },
+  {
+    "t": "F8930 - VNY23- SANLIANG TORQUE SCREWDRIVER WRENCH",
+    "p": "X002YJ60OV",
+    "s": "20188-AAOG",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: May 08, 2026"
+  },
+  {
+    "t": "F8931 VNYII 5- TORQUE WRENCH 10IN/LB-50IN/LB",
+    "p": "501MRMH",
+    "s": "0722900113",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: May 08, 2026"
+  },
+  {
+    "t": "FIRE EXTINGUISHER",
+    "p": "",
+    "s": "09201186",
+    "st": "active",
+    "l": "VAN 1",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "FIRE EXTINGUISHER",
+    "p": "UNKOWN",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "FIRE EXTINGUISHER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "First aid kit",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "FIRST AID KIT",
+    "p": "UNKOWN",
+    "s": "UNK",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "FIRST AID KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "VAN 1",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "Fluke 101 Multimeter",
+    "p": "Fluke 101",
+    "s": "54571909WS",
+    "st": "decommissioned",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "GREASER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "GREASING ACCESSORY KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "GULFSTREAM GRASER ADAPTER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "HAMMERS/PRYBARS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "HP-2 RIVETER AND ASSORTED RIVETS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "HP PRINTER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "HYDRAULIC WIRE CRIMPING TOOL",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "JACK PLATE 2-PIECE",
+    "p": "",
+    "s": "Z-2169-02",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "JACK PLATE 2-PIECE",
+    "p": "",
+    "s": "Z-2168-02",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "K-2799 JACKING KIT",
+    "p": "K-2799 JACKING KIT",
+    "s": "M369970",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "KL1992-01",
+    "p": "MD88",
+    "s": "78610147",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 18, 2026"
+  },
+  {
+    "t": "KLECO AND DRILL BITS KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "KLECO FASTENERS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LANTAP KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LAPTOP",
+    "p": "DELL INSPIRION",
+    "s": "8M4HVN3",
+    "st": "active",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LAS Laptop 1 - LENOVO Ideapad 1 15ALC7",
+    "p": "15ALC7",
+    "s": "PF4T1RZX",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LENOVO LAPTOP",
+    "p": "",
+    "s": "PF5A7D4B",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LOW BACK CREEPER 300 LB - Black",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUH8 HIGH PRESSURE NITROGEN REGULATOR",
+    "p": "8700",
+    "s": "LZUH8 - F6991",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUHOME7 - TIRE SERVICE GAUGE 0- 300 PSI",
+    "p": "0-300",
+    "s": "LZUHOME7",
+    "st": "decommissioned",
+    "l": "MISSING",
+    "ca": "",
+    "cl": "CALIBRATION DUE"
+  },
+  {
+    "t": "LZUII 12 3lb Dead Blow Hammer",
+    "p": "CHFDRL48",
+    "s": "LZUII 12",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 15 -Sim Kit Sealant Gun",
+    "p": "LZUII 15",
+    "s": "LZUII 15",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 16 - C Clamps x 2",
+    "p": "LZUII 16",
+    "s": "LZUII 16",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 19 - Lear Nose Wheel Steering Cable",
+    "p": "LZUII 19",
+    "s": "LZUII 19",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 23 -Grease Guns",
+    "p": "LX-1152",
+    "s": "LZUII 23",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 24 -Hydraulic Coupling Kit",
+    "p": "KHC-1012",
+    "s": "MO64450",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 25 -Hydraulic Coupling Kit",
+    "p": "KCH-1009",
+    "s": "M259430",
+    "st": "active",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 26 -Hydraulic Coupling Kit",
+    "p": "KHC-1139",
+    "s": "M108400",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 27 -Fluke 115 Multimeter",
+    "p": "LZUII 27",
+    "s": "LZUII 27",
+    "st": "reference",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 29 Nitrogen 22' Hose",
+    "p": "HN22",
+    "s": "500262-001-02",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 31 - MCO -5882230302 - JACK AXLE 25 TON",
+    "p": "02-7830C0110",
+    "s": "5882230302",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 32 - MCO - 7188230104 - JACK AXLE 12 TON",
+    "p": "02-7813C0100",
+    "s": "7188230104",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 33 - MCO- 8027230108 - FLUID SERVICE UNIT",
+    "p": "06-5022-6500",
+    "s": "8027230108",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 34 -MCO- 8027230109 - FLUID SERVICE UNIT",
+    "p": "06-5022-6500",
+    "s": "8027230109",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 35- MCO -8027230110 - FLUID SERVICE UNIT",
+    "p": "06-5022-6500",
+    "s": "8027230110",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 3- NITRO REG KIT 22' HOSE",
+    "p": "NHPK-22",
+    "s": "",
+    "st": "active",
+    "l": "DEREK GRIMES",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 7 - LZUII 8 -NITROGEN HIGH PRESSURE REGULATOR",
+    "p": "8700",
+    "s": "LZUII7",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZUII 8 - O2 REGULATOR KIT",
+    "p": "O2HPK-15",
+    "s": "",
+    "st": "active",
+    "l": "DEREK GRIMES",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "LZU VAN MX FORMS",
+    "p": "VIN: 3C6LRVDG7NE112744",
+    "s": "2022 RAM PRMASTER VAN",
+    "st": "active",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "MAC SCREW DRIVERS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "MIFI HOTSPOT NIGHTHAWK",
+    "p": "MR7400",
+    "s": "7HH44AW2A4FE6",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "Mobile Jet oil II",
+    "p": "23 cans 1-24-25",
+    "s": "Expires March 2034",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "Mobil Jet Oil 254",
+    "p": "24 cans 1/24/25",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "N2 SERVICE KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "NEIKO 8-PIECE IMPACT ADAPTER AND REDUCER KIT",
+    "p": "NEIKO 30223A",
+    "s": "",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "NITROGEN HOSE REEL",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "NITROGEN HYDRAULIC FITTINGS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "O2 GAS BOOSTER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "O2 HOSE REEL",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "OPF 1 - BRAUN RECHARGEABLE PEN LIGHT",
+    "p": "OPF 1",
+    "s": "N/A",
+    "st": "decommissioned",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "OXYGEN HOSE REEL",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI11 - SANLIANG TORQUE SCREWDRIVER WRENCH",
+    "p": "X002YJ60OV",
+    "s": "111004447",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Next due: May 15, 2026"
+  },
+  {
+    "t": "PBI 12- WHEEL BEARING 3-1/2\"",
+    "p": "OTC1910",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI14- 1\" DRIVE 3-3/4\" IMPACT SOCKET",
+    "p": "5120",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI15- FLUID SERVICE UNIT",
+    "p": "06-5022-6600",
+    "s": "8839220804",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI16- FLUID SERVICE UNIT",
+    "p": "06-5022-6600",
+    "s": "8839220805",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI17- 25TON JACK",
+    "p": "02-7830C0110",
+    "s": "7858220702",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI18 - TIRE GAUGE 0 TO 400 PSI",
+    "p": "8844",
+    "s": "26407",
+    "st": "decommissioned",
+    "l": "MISSING",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI19- O2 REGULATOR KIT",
+    "p": "O2HPK-15",
+    "s": "",
+    "st": "decommissioned",
+    "l": "MISSING",
+    "ca": "MISSING",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI1- GULFSTREAM AXEL JACK",
+    "p": "GMGJAK",
+    "s": "121",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI 2- 12TON JACK",
+    "p": "02-7813C0100",
+    "s": "6272220502",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI3- FLUID SERVICE UNIT",
+    "p": "06-5022-6500",
+    "s": "0143220609",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI4 - TORQUE WRENCH 50FT/LB- 250FT/LB",
+    "p": "2503MFRMH",
+    "s": "0622114897",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Next due: May 15, 2026"
+  },
+  {
+    "t": "PBI5 - TORQUE WRENCH 10IN/LB- 50IN/LB",
+    "p": "501MRMH",
+    "s": "0522906119",
+    "st": "decommissioned",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI6- TORQUE WRENCH 50IN/LB- 250IN/LB",
+    "p": "2502MRMH",
+    "s": "0522906976",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Next due: May 15, 2026"
+  },
+  {
+    "t": "PBI7- 1\" DRIVE IMPACT TOOL KIT",
+    "p": "JQ-1-ZTO21A",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI8- IMPACT ADAPTER AND REDUCER KIT",
+    "p": "NEIKO 30223A",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBI9- WHEEL BEARING 2-7/8\"",
+    "p": "OTC 1932",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBIII1- TORQUE DR 10-70IN/LB",
+    "p": "X002YJ60OV",
+    "s": "PBIII 1",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Next due: May 15, 2026"
+  },
+  {
+    "t": "PBIII 21 - LADDER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBIII 22 - LADDER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBIII 23 - FLUKE MULTIMETER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBIII 23- LADDER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBIII2- IMPACT ADAPTER AND REDUCER KIT",
+    "p": "NEIKO 30223A",
+    "s": "",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBIII4- TORQUE WRENCH 50IN/LB- 250IN/LB",
+    "p": "2502MRMH",
+    "s": "0922111439",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Next due: May 15, 2026"
+  },
+  {
+    "t": "PBIII5- O2 REG KIT",
+    "p": "O2HPK-15",
+    "s": "",
+    "st": "decommissioned",
+    "l": "MISSING",
+    "ca": "MISSING",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PBIII6- TIRE GAUGE 0-400PSI",
+    "p": "8844",
+    "s": "26891",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Next due: May 15, 2026"
+  },
+  {
+    "t": "PBIII7- TORQUE WRENCH 10IN/LB- 50IN/LB",
+    "p": "501MRMH",
+    "s": "0722900115",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Next due: May 15, 2026"
+  },
+  {
+    "t": "PBIII8- TORQUE WRENCH 50FT/LB- 250FT/LB",
+    "p": "2503MFRMH",
+    "s": "1022120895",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Next due: May 15, 2026"
+  },
+  {
+    "t": "PDK - JACK PADS PHENOM 300",
+    "p": "JCPS-G5K-0011",
+    "s": "",
+    "st": "active",
+    "l": "PDK",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PLIERS AND CLAMPS DRAWER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "POP RIVETS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PORTABLE WIFI - LOST- NIGHTHAWK M6",
+    "p": "MR6110",
+    "s": "6V4639WRA1CC7",
+    "st": "decommissioned",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PORTABLE WIFI -- NIGHTHAWK M6",
+    "p": "MR6110",
+    "s": "6V4639WVA1D00",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "PRO 360 Digital Protractor",
+    "p": "KS5549",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "RIVET SQUEEZER KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SFB 1 - Airgas O2 Regulator",
+    "p": "Y11-N115H",
+    "s": "3200387",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SFB 2 - USA BORESCOPE",
+    "p": "SRV-J SERIES",
+    "s": "SFB2",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SFB 3 - Ryobi Generator 2300 Watts (Gas Powered)",
+    "p": "SFB 3",
+    "s": "SFB 3",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SFB 4 - ALBERTH AVIATION MOBILE MULE",
+    "p": "MM-3200",
+    "s": "",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SFB - 5 560XLS + Engine Download Cables",
+    "p": "PWC44020",
+    "s": "1223073",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SFB 6 - ENGINE SLING",
+    "p": "SFB 6",
+    "s": "",
+    "st": "active",
+    "l": "DECOMMISSIONED",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SFB - 7 APU HOIST SYSTEM",
+    "p": "",
+    "s": "SFB 7",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "SFB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SFB VAN MX FORMS",
+    "p": "VIN: 1FTBW3X82PKA05297",
+    "s": "2023 FORD TRANSIT CARGO VAN",
+    "st": "active",
+    "l": "SFB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SOCKET KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "SOCKETS/RATCHES/EXTENSIONS",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 10 - 25 TON AXLE JACK",
+    "p": "",
+    "s": "1095",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 11 - FLUID DISPENSER 5606",
+    "p": "2025066",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 12 - FLUID DISPENSER SKYDROL",
+    "p": "2025057",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 13 - 25 IN/LB Torque Driver",
+    "p": "",
+    "s": "5GF034238",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Next due: July 25, 2026"
+  },
+  {
+    "t": "TEB 14 - O2 FILL ADAPTER",
+    "p": "1519",
+    "s": "1119",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 15- small socket kit",
+    "p": "Icon",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 15- socket kit",
+    "p": "Puttsburg",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB17- rolling seat",
+    "p": "Grants",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 18- green hand bottle dolly",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 19- gorilla ladder",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 1 - GULFSTREAM JACK ADAPTER KIT",
+    "p": "GMGJAK",
+    "s": "201",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 20- 2 extension cords",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 22- 1/2 IN TORQUE 30-250 FT LBS",
+    "p": "2503MFRMH",
+    "s": "0525111976",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Next due: May 17, 2026"
+  },
+  {
+    "t": "TEB 2 - GULFSTREAM WHEEL SOCKET KIT",
+    "p": "GSK",
+    "s": "2916/5905",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 3 - DILL HIGH PRESSURE TIRE GUAGE",
+    "p": "8844-B",
+    "s": "GA 001",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Next due: July 25, 2026"
+  },
+  {
+    "t": "TEB 4 - SNAP-ON Torque Wrench",
+    "p": "QD3R250",
+    "s": "0810603030",
+    "st": "decommissioned",
+    "l": "DECOMMISSIONED",
+    "ca": "TEB",
+    "cl": "CALIBRATION DUE"
+  },
+  {
+    "t": "TEB 5 - SNAP-ON Torque Wrench",
+    "p": "QD2R1000",
+    "s": "0310005324",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Next due: July 25, 2026"
+  },
+  {
+    "t": "TEB 6 - SNAP-ON Torque Wrench",
+    "p": "QD1R200",
+    "s": "0810063390",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Next due: July 25, 2026"
+  },
+  {
+    "t": "TEB 7 - HIGH PRESSURE NITROGEN GUAGE",
+    "p": "N2K.A1",
+    "s": "8700-2500-580",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 8 - HIGH PRESSURE O2 GUAGE",
+    "p": "O2K.A1",
+    "s": "8700-2500-540",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB 9 - 12 TON AXLE JACK",
+    "p": "",
+    "s": "1091",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB ITEMS FOR VAN",
+    "p": "RECEIPTS",
+    "s": "IMAGES",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "TEB",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TEB VAN MX FORMS",
+    "p": "VIN: 3C6LRVDG9PE564990",
+    "s": "2023 RAM PROMASTER VAN",
+    "st": "active",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TIRE PRESSURE GAUGE - TPJ-KL1992- 02",
+    "p": "02-4159-X",
+    "s": "TPJ-KL1992-02",
+    "st": "active",
+    "l": "APA TRUCK",
+    "ca": "APA",
+    "cl": "Next due: June 20, 2026"
+  },
+  {
+    "t": "TPA 1 - HIGH PRESSURE NITROGEN GAUGE",
+    "p": "8700",
+    "s": "T-54464",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TPA 2 - Dewalt 165 PSI Compressor",
+    "p": "TPA 2",
+    "s": "TPA 2",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "TPA",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TPA VAN MX FORMS",
+    "p": "VIN 1FTBW3X83PKA05115",
+    "s": "2023 FORD TRANSIT CARGO VAN",
+    "st": "active",
+    "l": "TPA VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "TRIANGLE SAFETY KIT",
+    "p": "",
+    "s": "1005",
+    "st": "active",
+    "l": "VAN 5",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "U.S. GENERAL BLUE TOOL BOX",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VAN 4 -1/2 Breaker Bar",
+    "p": "MXP54",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VAN 4 - 26 Inch Ladder",
+    "p": "Model 150 B",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VAN 4 - COLORADO MX FORMS",
+    "p": "VIN 1FTBW3X8XPKA05127",
+    "s": "2023 FORD TRANSIT C ARGO VAN",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VAN 4 - DIGITAL VIDEO INSPECTION CAMERA",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VAN 4 -Extension Cord 14 Guage/100 Feet",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VAN 4 -Gorilla Ladder",
+    "p": "Model GLMPXA-22",
+    "s": "LZUII 18",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VAN 4 - TUNGSTEN BUCKING BAR KIT",
+    "p": "TBB7",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VAN 4 -Welder Solder Iron",
+    "p": "VAN 4",
+    "s": "VAN 4",
+    "st": "active",
+    "l": "BJC VAN 4",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VEHICLE SAFTEY REFLECTOR",
+    "p": "RED BOX",
+    "s": "",
+    "st": "active",
+    "l": "VAN 1",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY10- 1\" DRIVE IMPACT KIT",
+    "p": "JQ-1-ZTO21A",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY13- FLUID SERVICE UNIT",
+    "p": "06-5022-6500",
+    "s": "0143220608",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY14- ADAPTER, FILL O2",
+    "p": "OOGSE-1039-00",
+    "s": "246503-05",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY15- NITRO REG KIT 22' HOSE",
+    "p": "NHPK-22",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY16- O2 REG KIT 15' HOSE",
+    "p": "O2HPK-15",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY17- JACKSTAND PAD, WING X2",
+    "p": "R-1807",
+    "s": "JOSH MILLARD",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY18- JACKSTAND PAD, WING x2",
+    "p": "R-1808",
+    "s": "JOSH MILLARD",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY19- PAD",
+    "p": "5520151-1",
+    "s": "JOSH MILLARD",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY24- FLUID SERVICE UNIT",
+    "p": "06-5022-6600",
+    "s": "8839220801",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY25- FLUID SERVICE UNIT",
+    "p": "06-5022-6600",
+    "s": "8839220802",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY26- GULFSTREAM ADAPTER RED SLEEVE",
+    "p": "GMGJAK.A2",
+    "s": "REPLACEMENT",
+    "st": "active",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY 27 - GULFSTREAM JACK ADAPTER",
+    "p": "GMGJAK",
+    "s": "104",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY 28 - 25TON JACK",
+    "p": "02-7830C0110",
+    "s": "3024220601",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY 29 - 12TON JACK",
+    "p": "02-7813C0100",
+    "s": "6272220505",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY30 - SOLDER KIT",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "LAS",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY 3 STEP LADDER",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY5 F8932 - TORQUE WRENCH 50FT/LB-250FT-LB",
+    "p": "2503MFRMH",
+    "s": "0422111250",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: May 08, 2026"
+  },
+  {
+    "t": "VNY6- 1\" DRIVE- 3-3/4\" IMPACT SOCKET",
+    "p": "5120",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY7- WHEEL BEARING 3-1/2\"",
+    "p": "OTC1910",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY8- WHEEL BEARING 2-7/8\"",
+    "p": "OTC 1932",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY9- IMPACT ADAPTER AND REDUCER KIT",
+    "p": "NEIKO 30223A",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY F6808 - TIRE SERVICING GAUGE",
+    "p": "MH46070",
+    "s": "AAA6808",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: May 08, 2026"
+  },
+  {
+    "t": "VNY F7106 TERMINAL CRIMP SET",
+    "p": "18921",
+    "s": "AV-66",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 24, 2026"
+  },
+  {
+    "t": "VNY F7107 CABLE TENSIOMETER",
+    "p": "T5-2002-101-00",
+    "s": "64974",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 24, 2026"
+  },
+  {
+    "t": "VNY F7108 FORCE GAUGE",
+    "p": "DL-100",
+    "s": "211210903405",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 24, 2026"
+  },
+  {
+    "t": "VNY F7109 MEGOHMETER",
+    "p": "101-00221",
+    "s": "700",
+    "st": "decommissioned",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY F7110 DIGITAL CALIPER",
+    "p": "63711",
+    "s": "2322-36027",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 22, 2026"
+  },
+  {
+    "t": "VNY F7111 TORQUE DRIVER",
+    "p": "TSMN16-88",
+    "s": "V090402",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 24, 2026"
+  },
+  {
+    "t": "VNY F7113 OUTSIDE MICROMETER",
+    "p": "0-1\"",
+    "s": "AAA7113",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 22, 2026"
+  },
+  {
+    "t": "VNY F7114 OUTSIDE MICROMETER",
+    "p": "1-2\"",
+    "s": "AAA7114",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 22, 2026"
+  },
+  {
+    "t": "VNY F7115 OUTSIDE MICROMETER",
+    "p": "2-3\"",
+    "s": "AAA7115",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Next due: September 22, 2026"
+  },
+  {
+    "t": "VNY Gorilla ladder",
+    "p": "Gorilla ladder",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNYII 10 - 1- GULFSTREAM AXEL JACK ADAPTER",
+    "p": "GMGJAK",
+    "s": "102",
+    "st": "decommissioned",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNYII 11- 12TON JACK",
+    "p": "02-7813C0100",
+    "s": "8097220603",
+    "st": "decommissioned",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNYII 13- 8TON JACK",
+    "p": "3999-010",
+    "s": "0269",
+    "st": "out_for_repair",
+    "l": "OPF VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNYII 27 Oxygen Booster",
+    "p": "",
+    "s": "18-2599-OB",
+    "st": "active",
+    "l": "",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "VNY SCAFFOLD STAND",
+    "p": "",
+    "s": "",
+    "st": "active",
+    "l": "BJC VAN",
+    "ca": "",
+    "cl": "Not Required"
+  },
+  {
+    "t": "Wrenches and spare socket set",
+    "p": "Husky",
+    "s": "",
+    "st": "active",
+    "l": "TEB VAN",
+    "ca": "",
+    "cl": "Not Required"
+  }
+]
