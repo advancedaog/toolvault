@@ -522,11 +522,11 @@ function renderPublicToolView(toolId) {
                 <dt>Calibration Date</dt><dd>${c.calibrationDate || '—'}</dd>
                 <dt>Next Due Date</dt><dd>${c.nextDueDate || '—'}</dd>
               </div>
-              ${c.fileData ? `
+              ${(c.fileData || c.filePath) ? `
                 <div style="margin-top: 20px; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: #fff;">
-                  <iframe src="${c.fileData}#toolbar=0" width="100%" height="500px" style="border: none; display: block;"></iframe>
+                  <iframe src="${c.fileData || c.filePath}#toolbar=0" width="100%" height="500px" style="border: none; display: block;"></iframe>
                 </div>
-                <a href="${c.fileData}" target="_blank" class="btn btn-primary btn-block mt-md" style="display:flex;justify-content:center;align-items:center;gap:8px">📄 Open Full PDF in New Tab</a>
+                <a href="${c.fileData || c.filePath}" target="_blank" class="btn btn-primary btn-block mt-md" style="display:flex;justify-content:center;align-items:center;gap:8px">📄 Open Full PDF in New Tab</a>
               ` : ''}
             </div>
           `).join('')}
